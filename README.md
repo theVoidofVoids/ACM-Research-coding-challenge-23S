@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/72369124/211179527-0ee60624-2794-4e13-bf7f-f88b5c950e44.png)
 
-## Copy of my description is in the Word Document also along with my CSV file with my correlations
+## Copy of my description is in the Word document if you want to read it clearly. Also comes along with my CSV file with my correlations
 
 Kaggle’s Star Dataset has a wealth of information on your screen. It has over two hundred stars, with information relating to each of these stars. The first thing I wondered about is how temperature affect anything at all. So I decided to find correlations between temperature, radius, absolute magnitude, and luminosity.
 I first questioned how temperature and radius are correlated. I noticed on my first glance at the data is that the stars with the highest temperatures has the largest radius. But after looking further, I noticed that some stars with the biggest temperature have a smaller radius than other stars. For example, there is a star on line 13 of the CSV file that is red and a star type of 1 with a temperature and radius of 3129K and 0.3761 R/Ro respectively. But another star on line 22 that is blue-white and is a star type of 2 has a temperature and radius of 25000K and 0.0084 R/Ro respectively. I sort of doubt temperature and radius are correlated, but I must see if my hypothesis is correct.
